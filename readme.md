@@ -2,8 +2,6 @@
 
 Welcome to **MY_PORTFOLIO**, a fully responsive, modern, and interactive personal portfolio website designed and built from scratch using HTML, CSS, and JavaScript. This website showcases my projects, skills, and contact information — everything a frontend developer needs to present themselves professionally online.
 
-![Portfolio Screenshot](./img/sample-page.png) <!-- Replace with your actual screenshot -->
-
 
 ---
 
